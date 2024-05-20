@@ -1,6 +1,5 @@
-let a = 3;
-let b = 7;
-
-console.log(" a =  ", a, " & b = ", b);
-a++;
-console.log(" a = ", a);
+let c= 3;
+let h = 7;
+  console.log(" c =  ", c, " & h = ", h);
+   c++;
+  console.log(" c = ", c);
