@@ -1,5 +1,11 @@
-let her = ["thor","tonystark","hulk","linda"];
+let heroes = ["thor","tonystark","hulk","linda"];
 
-for(let i = 0; i < her.length; i++){
-console.log( her[i] );
+// for(let idx = 0; idx < her.length; idx++)
+// {
+// console.log( her[3] );
+// }
+
+for(let hero of heroes){
+
+    console.log(hero);
 }
